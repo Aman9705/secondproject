@@ -1,19 +1,6 @@
-.raju{
-  color: crimson;
-  text-align: center;
-  
-}
-.rani{
-  color: blue;
-  text-align: end;
-}
 .first{
-width: auto;
-height: auto;
-
-
-}
-.raju{
-  text-align: center;
-  text-align: left;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
 }
